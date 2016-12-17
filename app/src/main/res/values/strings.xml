@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MathsQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="question_text_1">Is this is a Leap Year.</string>
+    <string name="question_text_2">Is Narendra Modi is a Prime minister of India .</string>
+    <string name="question_text_3">NSA is tracking to everyone.</string>
+    <string name="question_text_4">Donald Trump is a President Of US.</string>
+    <string name="question_text_5">Putin is a citizen of Russia.</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="cheated_toast">You have cheated !!! Try to solve by your self</string>
+    <string name="next_button">Next Question</string>
+    <string name="hint_button">Hint</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="cheat_warning_text">This is not a good practice!</string>
+    <string name="cheat_show_button">Show Cheat</string>
+</resources>
